@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 //1234
 @SpringBootApplication
-public class EurekaApiGateway {
+public class EApiGateway {
 
     public static void main(String[] args) {
-        SpringApplication.run(EurekaApiGateway.class, args);
+        SpringApplication.run(EApiGateway.class, args);
     }
 }
 //opsidjfoijsopfihso
