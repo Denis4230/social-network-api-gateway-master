@@ -9,5 +9,8 @@ public class EApiGateway {
     public static void main(String[] args) {
         SpringApplication.run(EApiGateway.class, args);
     }
+    void lds(Throwable throwable, Integer integer) {
+        System.out.println(throwable);
+    }
 }
 //opsidjfoijsopfihso
