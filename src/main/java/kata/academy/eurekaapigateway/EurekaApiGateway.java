@@ -10,3 +10,4 @@ public class EurekaApiGateway {
         SpringApplication.run(EurekaApiGateway.class, args);
     }
 }
+//opsidjfoijsopfihso
