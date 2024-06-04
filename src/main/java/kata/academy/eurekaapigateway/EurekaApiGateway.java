@@ -11,7 +11,7 @@ public class EApiGateway {
     public static void main(String[] args) {
         SpringApplication.run(EApiGateway.class, args);
     }
-    void lds(Data data, String s) {
+    void lds(Long data, String[] s) {
         System.out.println(s);
     }
 }
